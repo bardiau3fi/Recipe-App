@@ -14,24 +14,43 @@ Also from the application we can search recipes directly from our API. So if you
 # Technologies
 
   MVVM
+  
   Single activity
+  
   Material components
+  
   Navigation components
+  
   Dagger – Hilt
+  
   Room
+  
   Datastore
+  
   Retrofit
+  
   OkHttp
+  
   OkHttp interceptor
+  
   Coroutines
+  
   Flow
+  
   LiveData
+  
   ViewModel
+  
   Extensions
+  
   Lifecycle
+  
   Coil
+  
   Gson
+  
   Calligraphy
+  
   Lottie
   Shimmer
   DynamicSize
